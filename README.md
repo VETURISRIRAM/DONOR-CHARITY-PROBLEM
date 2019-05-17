@@ -1,4 +1,4 @@
-# DONOR-CHARITY-PROBLEM
+# DONOR CHARITY PROBLEM ANALYSIS
 
 Predictive Analysis of the Potential Donors to a Charity Organization. 
 
