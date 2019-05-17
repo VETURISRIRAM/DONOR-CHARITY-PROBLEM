@@ -10,4 +10,4 @@ The objective is to determine which set of potential donors the charity should c
 
 You can download the dataset used for this project <a href="https://drive.google.com/drive/folders/1kgr-5DKnRG9W34TFUDbvJldAlChL3OOp?usp=sharing">here<a>.
 
-Keep the `data` folder in the home directory and run the `Donor-Chaity` Notebook for the analysis results.
+Keep the `data` folder in the home directory and run the `Donor-Charity` Notebook for the analysis results.
