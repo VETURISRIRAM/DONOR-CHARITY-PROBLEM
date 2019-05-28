@@ -11,3 +11,7 @@ The objective is to determine which set of potential donors the charity should c
 You can download the dataset used for this project <a href="https://drive.google.com/drive/folders/1kgr-5DKnRG9W34TFUDbvJldAlChL3OOp?usp=sharing">here<a>.
 
 Keep the `data` folder in the home directory and run the `Donor-Charity` Notebook for the analysis results.
+
+## Common Issue and Work-Around
+
+If the Python Notebook does not load in the browser or you see something like `Sorry, something went wrong. Reload?`, you can open it <a href="https://nbviewer.jupyter.org/github/VETURISRIRAM/DONOR-CHARITY-PROBLEM/blob/master/Donor-Charity.ipynb">here<a>.
