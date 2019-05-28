@@ -12,6 +12,6 @@ You can download the dataset used for this project <a href="https://drive.google
 
 Keep the `data` folder in the home directory and run the `Donor-Charity` Notebook for the analysis results.
 
-## Common Issue and Work-Around
+## Python Notebook doesn't load?
 
 If the Python Notebook does not load in the browser or you see something like `Sorry, something went wrong. Reload?`, you can open it <a href="https://nbviewer.jupyter.org/github/VETURISRIRAM/DONOR-CHARITY-PROBLEM/blob/master/Donor-Charity.ipynb">here<a>.
